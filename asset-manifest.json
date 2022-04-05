@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/locations-app/static/css/main.ce167099.css",
+    "main.js": "/locations-app/static/js/main.0aad629b.js",
+    "static/js/787.f21d7353.chunk.js": "/locations-app/static/js/787.f21d7353.chunk.js",
+    "index.html": "/locations-app/index.html",
+    "main.ce167099.css.map": "/locations-app/static/css/main.ce167099.css.map",
+    "main.0aad629b.js.map": "/locations-app/static/js/main.0aad629b.js.map",
+    "787.f21d7353.chunk.js.map": "/locations-app/static/js/787.f21d7353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce167099.css",
+    "static/js/main.0aad629b.js"
+  ]
+}
