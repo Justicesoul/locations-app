@@ -1,7 +1,5 @@
 # Locations App
 
-### You can find project page here => https://justicesoul.github.io/locations-app/
-
 ![Project GIF](src/assets/images/projectRecord.gif)
 
 ## This project has unit tests
