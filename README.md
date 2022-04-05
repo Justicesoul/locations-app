@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Locations App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### You can find project page here => https://justicesoul.github.io/locations-app/
+
+![Project GIF](src/assets/images/projectRecord.gif)
+
+## This project has unit tests
+
+![Project JPG](src/assets/images/tests.jpg)
 
 ## Available Scripts
 
